@@ -93,8 +93,3 @@ bash
 
 **Aishwarya S**
 
----
-
-
-
-Would you like to include example API request/response JSON as well?
