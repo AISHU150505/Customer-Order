@@ -1,7 +1,4 @@
 
-
-
-markdown
 # Customer Orders Management System
 
 A Spring Boot-based web application for managing customer orders securely using JWT authentication. This project uses SQLite as the backend database and supports RESTful APIs for CRUD operations.
