@@ -1,6 +1,5 @@
-Based on your project structure (Spring Boot, SQLite, JPA, JWT Security), here is a clean and complete README.md file you can use for your GitHub repository:
 
----
+
 
 markdown
 # Customer Orders Management System
